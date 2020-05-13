@@ -54,6 +54,9 @@
 #subscribe h6{
     color: grey;
 }
+.submit{
+    margin-top: 5px;
+}
 footer{
     text-align: center;
 }
